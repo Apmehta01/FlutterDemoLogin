@@ -1,4 +1,4 @@
-# flutter_app_login_demo
+# Flutter Login Demo
 
 A new Flutter application.
 
